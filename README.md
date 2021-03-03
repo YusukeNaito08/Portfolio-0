@@ -23,7 +23,7 @@
 
 ## 設計書
 
-## 機能要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/1lSsCTTqFW9ZbzeodlfuVnZ7RFjr46pBbzOgiiQhxttM/edit#gid=0
 
 
